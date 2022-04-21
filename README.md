@@ -2,10 +2,12 @@
 # DummyPromise
 # Description
 This is a website that enable users to search their github names and their repositories
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
+
 # Live Link
 r00t254.github.io/gitsearch-redifined/
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
 
 ## Developments
 You can run ng serve to show the live link
