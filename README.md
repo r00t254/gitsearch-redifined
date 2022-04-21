@@ -13,6 +13,7 @@ You can run ng serve to show the live link
  Angular CLI
 
 # Known Bugs
+There are no known bugs
 
 ## Build
 
