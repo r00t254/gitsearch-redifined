@@ -10,7 +10,7 @@ You can run ng serve to show the live link
 
  The application will automatically reload if you change any of the source files.
  # Technology used
- Angular 
+ Angular CLI
 
 ## Code scaffolding
 
