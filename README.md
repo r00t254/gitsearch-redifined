@@ -12,9 +12,7 @@ You can run ng serve to show the live link
  # Technology used
  Angular CLI
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+# Known Bugs
 
 ## Build
 
