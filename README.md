@@ -5,7 +5,8 @@ This is a website that enable users to search their github names and their repos
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
 
-## Development 
+## Developments
+You can run ng serve to show the live link
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
