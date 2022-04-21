@@ -33,3 +33,5 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 .Feel free to share your comments and feedback here
 
 # License
+
+MIT Copyright (c) 2022 Mary Auma
